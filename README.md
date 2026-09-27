@@ -7,5 +7,5 @@ Engenheiro de Software Full Stack & Mobile Sênior focado em construir arquitetu
 ### 🧰 Minhas Tecnologias & Habilidades
 
 * **Backend & APIs:** PHP | WordPress | Laravel | Node.js | Python | JavaScript | RESTful API | Desenvolvimento de API 
-* **Frontend & Mobile:** React Native | React.js | Next.js | Vue.js | Sass/CSS
+* **Frontend & Mobile:** React Native | React.js | Next.js | Vue.js | typescript | Sass/CSS
 * **Infra & Bancos:** Linux | Shell Script | Git | MySQL | PostgreSQL
